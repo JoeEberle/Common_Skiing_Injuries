@@ -1,0 +1,9 @@
+2024-10-15 23:08:50,480 - INFO - START Common_Skiing_Injuries =============================================
+2024-10-15 23:08:50,480 - INFO - START Common_Skiing_Injuries Start Time = 2024-10-15 23:08:50
+2024-10-15 23:08:50,480 - INFO - Common_Skiing_Injuries Step 0 - Initialize the configuration file parser
+2024-10-15 23:08:50,481 - INFO - Process Common_Skiing_Injuries Step 0 - Initializing and starting Logging Process.
+2024-10-15 23:08:50,525 - INFO - PERFORMANCE Common_Skiing_Injuries The total process duration was:0.05
+2024-10-15 23:08:50,526 - INFO - PERFORMANCE Common_Skiing_Injuries Stop Time = 2024-10-15 23:08:50
+2024-10-15 23:08:50,526 - INFO - PERFORMANCE Common_Skiing_Injuries Short process duration less than 3 Seconds:0.05
+2024-10-15 23:08:50,527 - INFO - PERFORMANCE Common_Skiing_Injuries Performance optimization is not reccomended
+2024-10-15 23:08:50,527 - INFO - END Common_Skiing_Injuries =============================================
