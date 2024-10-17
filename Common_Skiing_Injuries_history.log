@@ -12,3 +12,17 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-17 01:20:13,483 - INFO - START Common_Skiing_Injuries =============================================
+2024-10-17 01:20:13,483 - INFO - START Common_Skiing_Injuries Start Time = 2024-10-17 01:20:13
+2024-10-17 01:20:13,483 - INFO - Common_Skiing_Injuries Step 0 - Initialize the configuration file parser
+2024-10-17 01:20:13,484 - INFO - Process Common_Skiing_Injuries Step 0 - Initializing and starting Logging Process.
+2024-10-17 01:20:13,528 - INFO - PERFORMANCE Common_Skiing_Injuries The total process duration was:0.05
+2024-10-17 01:20:13,528 - INFO - PERFORMANCE Common_Skiing_Injuries Stop Time = 2024-10-17 01:20:13
+2024-10-17 01:20:13,528 - INFO - PERFORMANCE Common_Skiing_Injuries Short process duration less than 3 Seconds:0.05
+2024-10-17 01:20:13,529 - INFO - PERFORMANCE Common_Skiing_Injuries Performance optimization is not reccomended
+2024-10-17 01:20:13,529 - INFO - END Common_Skiing_Injuries =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
