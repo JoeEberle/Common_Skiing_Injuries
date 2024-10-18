@@ -71,7 +71,7 @@ These injuries require quick and effective care by National Ski Patrol members, 
    - Patrollers immobilize the thumb with a splint or supportive wrap, apply ice, and suggest medical follow-up for assessment of ligament damage and possible surgical intervention.
 
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
