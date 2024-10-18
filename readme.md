@@ -4,7 +4,25 @@
 
 ## A list of common skiing injuries a National Ski Patrol person may face.
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 
 ## 10 most common injuries
 
@@ -77,7 +95,13 @@ These injuries require quick and effective care by National Ski Patrol members, 
    - Patrollers immobilize the thumb with a splint or supportive wrap, apply ice, and suggest medical follow-up for assessment of ligament damage and possible surgical intervention.
 
 
-![Image image_filename](code.png)![Image image_filename](sample.png)
+
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
