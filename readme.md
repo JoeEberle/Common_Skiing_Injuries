@@ -55,7 +55,7 @@ Here are the 10 most common injuries a National Ski Patrol member might face whi
 9. **Frostbite**  
    - Extremities like fingers, toes, and ears can be affected by frostbite due to prolonged exposure to cold temperatures without adequate protection.
 
-10. **Skiersâ€™ Thumb (UCL Injury)**  
+10. **Skiers’ Thumb (UCL Injury)**  
    - This occurs when the thumb is caught in a ski pole during a fall, leading to damage to the ulnar collateral ligament (UCL) in the thumb.
 
 These injuries require quick and effective care by National Ski Patrol members, emphasizing their role in both emergency response and injury prevention.
@@ -91,7 +91,7 @@ These injuries require quick and effective care by National Ski Patrol members, 
 9. **Frostbite**  
    - Affected areas are carefully insulated, avoiding direct heat, and patients are evacuated to medical care, where rewarming can be done under controlled conditions to prevent further tissue damage.
 
-10. **Skiersâ€™ Thumb (UCL Injury)**  
+10. **Skiers’ Thumb (UCL Injury)**  
    - Patrollers immobilize the thumb with a splint or supportive wrap, apply ice, and suggest medical follow-up for assessment of ligament damage and possible surgical intervention.
 
 
