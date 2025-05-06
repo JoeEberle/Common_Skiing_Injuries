@@ -8,20 +8,6 @@
 ![Solution](code.png)
 
     
-## Table of Contents
-
-- [Solution Overview](#solution-overview)
-- [Who will use this ?](#who-can-use)
-- [Advantages of Using](#advantages-of-using)
-- [Return on Investment (ROI)](#return-on-investment-roi)
-- [How it Works](#how-it-works)
-- [Conclusion](#conclusion)
-- [Getting Started](#getting-started)
-- [Solution Features](#solution-features)
-- [Code Features](#code-features)
-- [Deliverables or Figures](#deliverables-or-figures)
-- [Contact Information](#contact-information)
-
 
 
 ## 10 most common injuries
@@ -55,7 +41,7 @@ Here are the 10 most common injuries a National Ski Patrol member might face whi
 9. **Frostbite**  
    - Extremities like fingers, toes, and ears can be affected by frostbite due to prolonged exposure to cold temperatures without adequate protection.
 
-10. **Skiers� Thumb (UCL Injury)**  
+10. **Skiers’ Thumb (UCL Injury)**  
    - This occurs when the thumb is caught in a ski pole during a fall, leading to damage to the ulnar collateral ligament (UCL) in the thumb.
 
 These injuries require quick and effective care by National Ski Patrol members, emphasizing their role in both emergency response and injury prevention.
@@ -91,7 +77,7 @@ These injuries require quick and effective care by National Ski Patrol members, 
 9. **Frostbite**  
    - Affected areas are carefully insulated, avoiding direct heat, and patients are evacuated to medical care, where rewarming can be done under controlled conditions to prevent further tissue damage.
 
-10. **Skiers� Thumb (UCL Injury)**  
+10. **Skiers’ Thumb (UCL Injury)**  
    - Patrollers immobilize the thumb with a splint or supportive wrap, apply ice, and suggest medical follow-up for assessment of ligament damage and possible surgical intervention.
 
 
@@ -121,18 +107,17 @@ To get started with the **Common Skiing Injuries** solution repository, follow t
 - Saves You Time 
 
 
-## Code Features
 
-These features are designed to provide everything you need for **Common Skiing Injuries** 
+## ⚙️ Key Features
 
-- **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each function
-- **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
-- **Includes Talking Code** - The code explains itself 
-- **Self Logging** - Enhanced python standard logging   
-- **Self Debugging** - Enhanced python standard debugging
-- **Low Code** - or - No Code  - Most solutions are under 50 lines of code
-- **Educational** - Includes educational dialogue and background material
+- ✅ **Self Documenting** Automatically identifies and annotates major steps in a notebook, making the codebase readable and well structured.
+- ✅ **Self Testing** Includes built in **unit tests** for each function to validate logic and ensure code reliability.
+- ✅ **Easily Configurable** Uses a simple **config.ini** file for centralized settings and easy customization through key value pairs.
+- ✅ **Talking Code** explains itself through inline commentary, helping you understand both **what** it does and **why** it does it.
+- ✅ **Self Logging** extends Python’s standard **logging** module for **step by step runtime insights**.
+- ✅ **Self Debugging** Includes debugging hooks and detailed error tracing to simplify development and troubleshooting.
+- ✅ **Low Code or  No Code** Designed to minimize complexity — most full solutions are under 50 lines of code.
+- ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
 ## List of Figures
